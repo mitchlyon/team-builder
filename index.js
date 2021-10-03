@@ -8,13 +8,6 @@ const Intern = require('./lib/Intern')
 
 const teamArr = [];
 
-var message = 'Hello Node!';
-
-var sum = 5 + 3;
-
-console.log(message);
-console.log(sum);
-
 function addEngineer() {
     return inquirer.prompt([
         {
