@@ -22,3 +22,7 @@
 .link:hover {
     color: violet;
 }
+
+.card {
+    margin: 15px;
+}
